@@ -24,7 +24,7 @@ namespace MentalShowerConsumer
             GetDataById(Convert.ToInt32(id));
 
             }
-        }
+        }// hej
 
         public async Task<IList<SensorDataModel>> GetAllDataAsync()
         {
